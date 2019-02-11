@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+		version="1.1"
+		viewBox="0 0 480 480"
+		height="480px"
+		width="480px">
+	<rect y="0"
+			x="0"
+			height="480"
+			width="240"
+			style="fill:#c07600;" />
+	<rect y="0"
+			x="240"
+			height="480"
+			width="240"
+			style="fill:#004dc0;" />
+	<rect y="360"
+			x="120"
+			height="60"
+			width="240"
+			style="fill:#ffffff;" />
+	<rect y="240"
+			x="120"
+			height="60"
+			width="240"
+			style="fill:#ffffff;" />
+	<circle r="60"
+			cy="120"
+			cx="240"
+			style="fill:#ffffff;" />
+</svg>

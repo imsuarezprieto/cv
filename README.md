@@ -1,2 +1,2 @@
 # cv
-CV in html + css + js + frameworks
+My personal CV for Web Development in web development technologies.
